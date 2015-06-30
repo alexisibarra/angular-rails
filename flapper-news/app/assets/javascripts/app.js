@@ -12,7 +12,7 @@ angular.module('flapperNews',['ui.router', 'templates'])
           postPromise: ['posts', function(posts){
             return posts.getAll();
           }]
-        }
+        },
       })
       .state('posts', {
         url: '/posts/{id}',
