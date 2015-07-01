@@ -1,6 +1,6 @@
 {
   "name": "flapper-news",
-  "version": "b-1.0.0",
+  "version": "v-1.0.0",
   "authors": [
     "Alexis Ibarra <ar.ibarrasalas@gmail.com>"
   ],
@@ -15,6 +15,7 @@
   "dependencies": {
     "angular": "~1.4.1",
     "angular-ui-router": "~0.2.15",
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.3.5",
+    "angular-devise": "~1.1.0"
   }
 }
